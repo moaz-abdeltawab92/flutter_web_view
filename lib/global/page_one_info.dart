@@ -4,7 +4,7 @@ const String appName = "تَذْكِرَة";
 const String appSize = "27 MB";
 const String appLogo = "assets/images/app_logo.jpg";
 const String appURL =
-    "https://drive.google.com/uc?export=download&id=1nt_BPYcRzOeJsrFrB6ocqkgAEGC4z37I";
+    "https://drive.google.com/uc?export=download&id=1yIri7SxCiRTsM3ozFGQF5M-oH11AgpEF";
 const String? IOS_appURL = null; // This value can be left
 const String appDescription =
     "تَذْكِرَة هو أبليكشن بيجمعلك ٦ حاجات أساسية تساعدك وتعينك كمسلم في يومك\n"
