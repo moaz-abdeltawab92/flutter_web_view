@@ -17,7 +17,7 @@ const String appDescription =
     "هدف الابليكشن هو تسهيل الوصول إلى الأذكار والعبادات اليومية";
 
 const List<String> appImages = [
-  'assets/images/firstApp/home.jpg',
+ 'assets/images/firstApp/home.jpg',
   'assets/images/firstApp/light.jpg',
   'assets/images/firstApp/dark.jpg',
   'assets/images/firstApp/hadith.jpg',
